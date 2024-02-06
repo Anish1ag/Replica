@@ -1,0 +1,14 @@
+.instagram{
+    display: flex;
+    justify-content: center;
+}
+.insta{ 
+height: 60vh;
+position: relative;
+}
+.cover{
+
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 100px;
+}
